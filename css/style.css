@@ -328,6 +328,7 @@ body {
 }
 
 .sidebar__photo {
+  display: block; /* Добавил */
   max-width: 18.75rem;
   padding: 1.875rem 0.625rem;
 }
